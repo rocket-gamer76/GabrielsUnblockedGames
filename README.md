@@ -1,4 +1,6 @@
-I used Blazergames template for my unblocked games website. Go subscribe to him.
+<div align="center">
+<h1>ARCHIVED</h1>
+<h2>i used this for making a unblocked games site on replit but failed</h2>
 
  # BLAZERGAMES
 
